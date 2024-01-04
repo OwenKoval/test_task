@@ -7,8 +7,8 @@ import ast
 import pandas as pd
 import boto3
 
-os.environ['AWS_ACCESS_KEY_ID'] = 'AKIAWD3T74ZBE2POBW7F'
-os.environ['AWS_SECRET_ACCESS_KEY'] = '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'
+os.environ['AWS_ACCESS_KEY_ID'] = 'AWS_ACCESS_KEY_ID'
+os.environ['AWS_SECRET_ACCESS_KEY'] = 'AWS_SECRET_ACCESS_KEY'
 
 # Consts
 FILE_PATH = 'data.csv'
